@@ -8,7 +8,7 @@ Module Module1
         Dim MonEP As IPEndPoint = New IPEndPoint(IPAddress.Parse(ip), port)
         Console.WriteLine("Socket client initialisé.")
         Try
-            Console.WriteLine("Connexion au serveur ...")
+            Console.WriteLine("Connexion au serveur .....")
             MonSocketClient.Connect(MonEP)
             TraitementConnexion(MonSocketClient)
         Catch ex As Exception

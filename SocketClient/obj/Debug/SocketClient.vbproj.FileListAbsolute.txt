@@ -12,3 +12,7 @@ c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\
 c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.TrustInfo.xml
 c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe.manifest
 c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.application
+C:\Users\Armand\Documents\Visual Studio 2013\Projects\Git\TestGit_ServerClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Armand\Documents\Visual Studio 2013\Projects\Git\TestGit_ServerClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Armand\Documents\Visual Studio 2013\Projects\Git\TestGit_ServerClient\SocketClient\obj\Debug\SocketClient.xml
+C:\Users\Armand\Documents\Visual Studio 2013\Projects\Git\TestGit_ServerClient\SocketClient\obj\Debug\SocketClient.pdb
