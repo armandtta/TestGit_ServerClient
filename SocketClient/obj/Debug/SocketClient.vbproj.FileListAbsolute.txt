@@ -1,0 +1,14 @@
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.xml
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.Resources.resources
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.vbproj.GenerateResource.Cache
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.xml
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe.manifest
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.application
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.TrustInfo.xml
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe.manifest
+c:\users\armand\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.application
