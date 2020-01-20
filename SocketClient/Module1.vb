@@ -6,7 +6,7 @@ Module Module1
     Sub Main()
         Dim MonSocketClient As New Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp)
         Dim MonEP As IPEndPoint = New IPEndPoint(IPAddress.Parse(ip), port)
-        Console.WriteLine("Socket client initialisé.")
+        Console.WriteLine("Socket client initialisé. ")
         Try
             Console.WriteLine("Connexion au serveur .....")
             MonSocketClient.Connect(MonEP)
